@@ -1,4 +1,8 @@
+
+# See "Calm Programming - Conway's Game of Life" in youtube for the 'dictionary' version
+
 import random, time, copy
+
 WIDTH = 60
 HEIGHT = 20
 
